@@ -1,0 +1,12 @@
+root {
+    --a : #0C0032;
+    --a : #190061;
+    --a : #240090;
+    --a : #3500D3;
+    --a : #282828;
+}
+
+.container {
+    padding-right: 6%;
+    padding-left: 6%;
+}

@@ -1,0 +1,51 @@
+.home {
+  width: 100vw;
+  height: 90vh;
+  background-color: #100b22;
+}
+
+.home__div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home__container {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.home__foto{
+  padding-top: 2rem;
+  padding-bottom: 1.5rem;
+}
+
+.home__hola{
+  font-weight: bold;
+  font-size: 2.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.home__persona {
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding-bottom: 0.5rem;
+  color: rgb(116, 116, 255);
+}
+
+.home__descripcion {
+  font-weight: bold;
+}
+
+
+
+/*  background: url(../recursos/code-ga546c2824_1920.jpg);
+  background-repeat: no-repeat; 
+  
+  
+    flex-direction: row;
+    padding-left: 3rem;*/
